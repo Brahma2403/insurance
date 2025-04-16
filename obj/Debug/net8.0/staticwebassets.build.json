@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8XjLe9pbUHTz9uTAeZ13lrqmA5AX4OLfxodot0Uo7VQ=",
+  "Source": "insuranceWebApi",
+  "BasePath": "_content/insuranceWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
